@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  regexpattern: ^2.6.0
+  http: ^1.2.0
 
 dev_dependencies:
   flutter_test:
